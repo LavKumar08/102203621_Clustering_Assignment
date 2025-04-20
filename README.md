@@ -54,16 +54,3 @@ To evaluate the effectiveness of clustering algorithms by applying:
 - **PCA Scatter Plots** for top 3 clustering configurations to visualize cluster separability.
 
 ---
-
-## 🛠️ How to Run
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/your-username/clustering-assignment.git
-cd clustering-assignment
-
-# 2. Install required libraries (if not already)
-pip install numpy pandas matplotlib seaborn scikit-learn
-
-# 3. Run the main notebook or Python script
-python clustering_analysis.py
